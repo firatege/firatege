@@ -30,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firatege&show_icons=true&locale=en&layout=compact" alt="firatege" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firatege&show_icons=true&locale=en" alt="firatege" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firatege&" alt="firatege" /></p>
