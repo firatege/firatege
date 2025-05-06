@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firatege" alt="firatege" /></a> </p>
 
-- 🔭 I’m currently working on [University rank prediction](https://github.com/firatege/edu-rank-prediction)
+- 🔭 I’m currently working on [GTNH Wiki Chatbot](https://github.com/GTNH-S3/RagForGtnh)
 
 - 🌱 I’m currently learning **Machine & Deep Learning | Time Series Analysis**
 
