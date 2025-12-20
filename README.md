@@ -5,13 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firatege" alt="firatege" /></a> </p>
 
-- 🔭 I’m currently working on [NeuroCanvas](https://github.com/firatege/NeuroCanvas)
-
-- 🌱 I’m currently learning **Machine & Deep Learning | Time Series Analysis**
 
 - 📝 I regularly write articles on [https://medium.com/@firatege52](https://medium.com/@firatege52)
-
-- 💬 Ask me about **Data Analysis, Statistic, Math or something**
 
 - 📫 How to reach me **firategebayram@gmail.com**
 
