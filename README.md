@@ -1,5 +1,5 @@
 <h1 align="center">Fırat Ege Bayram</h1>
-<p align="center">Software Engineer &amp; Jr. Data Scientist · CS @ Dokuz Eylül University</p>
+<p align="center">Software Engineer · CS @ Dokuz Eylül University</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=firatege&label=Profile%20views&color=555555&style=flat-square" alt="profile views" />
@@ -12,9 +12,7 @@
 - 🎓 Computer Science student at **Dokuz Eylül University (DEU)**
 - 🦀 Building production-grade systems in **Rust** and backend services in **Python / TypeScript**
 - 🧠 Interested in **Data Science, NLP, and Machine Learning**
-- 📝 I write articles on [Medium](https://medium.com/@firatege52)
 - 📫 Reach me at **firategebayram@gmail.com**
-- ⚡ Fun fact: **SUSTU BU GECE KARARDI YİNE AY KALDI GERİYE CEVAPSIZ SORULAR**
 
 ---
 
@@ -22,10 +20,11 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **RustDoc Forge** | Production-grade document processing microservice platform inspired by iLovePDF | Rust, gRPC (tonic), PostgreSQL, NATS JetStream, Redis, MinIO, Docker, K8s |
-| **Code Arena** | Multiplayer bot-battle game where user-submitted code competes in real-time | Rust, Kubernetes, gVisor, WebSocket |
-| **MoodTune** | Emotion-based playlist generator using NLP | Python, RoBERTa, Spotify API, FastAPI |
-| **StockScope** | LLM-powered stock analysis tool | React, Claude API, TypeScript |
+| **[GitMyDayTime](https://github.com/firatege/GitMyDayTime)** | Personal daily planning &amp; time-tracking PWA with a built-in project-management system | TypeScript, React, Express, PostgreSQL, K8s |
+| **[MoneyWar](https://github.com/firatege/MoneyWar)** | Tick-based full-stack economy simulation | Rust, PostgreSQL, Docker |
+| **[Envanter-Tahmin-Platformu](https://github.com/firatege/Envanter-Tahmin-Platformu)** | SKU-level demand forecasting + automated purchase-order recommendation (graduation thesis) | Python, ML, Jupyter |
+| **[deprem-hasar-tespiti](https://github.com/firatege/deprem-hasar-tespiti)** | Post-earthquake building damage detection from satellite imagery (xView2, HGB) | Python, CV, ML |
+| **[python-Blog](https://github.com/firatege/python-Blog)** | Modern blog backend — JWT auth, role-based authorization, PostgreSQL | Python, FastAPI, PostgreSQL |
 
 ---
 
@@ -73,13 +72,10 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=firatege&show_icons=true&hide_border=true&bg_color=00000000&title_color=6e7681&text_color=8b949e&icon_color=6e7681" alt="github stats" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatege&layout=compact&hide_border=true&bg_color=00000000&title_color=6e7681&text_color=8b949e" alt="top languages" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=firatege&show_icons=true&hide_border=true&bg_color=00000000&title_color=6e7681&text_color=8b949e&icon_color=6e7681" alt="github stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatege&layout=compact&hide_border=true&bg_color=00000000&title_color=6e7681&text_color=8b949e" alt="top languages" />
+</div>
 
 ---
 
@@ -89,5 +85,4 @@
   <a href="https://www.linkedin.com/in/ege-bayram/"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://kaggle.com/frategebayram"><img src="https://img.shields.io/badge/Kaggle-1a1a1a?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://instagram.com/koklasakhuzuruegede"><img src="https://img.shields.io/badge/Instagram-1a1a1a?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://medium.com/@firatege52"><img src="https://img.shields.io/badge/Medium-1a1a1a?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
