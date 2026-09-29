@@ -23,7 +23,8 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[Envanter-Tahmin-Platformu](https://github.com/firatege/Envanter-Tahmin-Platformu)** | SKU-level demand forecasting + automated purchase-order recommendation (graduation thesis) | Python, ML, Jupyter |
-| **[GitMyDayTime](https://github.com/firatege/GitMyDayTime)** | Personal daily planning & time-tracking PWA with project-management | TypeScript, React, Express, PostgreSQL, K8s |
+| **[GitMyDayTime](https://github.com/Auth-ism/GitMyDayTime)** | Personal daily planning & time-tracking PWA with project-management | TypeScript, React, Express, PostgreSQL, K8s |
+| **[niri-setup](https://github.com/firatege/niri-setup)** | Fedora desktop setup for niri + DankMaterialShell — theme, keybinds, AI usage counter, chat panel | QML, Shell |
 | **[MoneyWar](https://github.com/firatege/MoneyWar)** | Tick-based full-stack economy simulation | Rust, PostgreSQL, Docker |
 | **[deprem-hasar-tespiti](https://github.com/firatege/deprem-hasar-tespiti)** | Post-earthquake building damage detection from satellite imagery (xView2) | Python, CV, ML |
 | **[python-Blog](https://github.com/firatege/python-Blog)** | Blog backend — JWT auth, role-based authorization | Python, FastAPI, PostgreSQL |
@@ -74,12 +75,27 @@
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=firatege&show_icons=true&hide_border=true&bg_color=00000000&title_color=6e7681&text_color=8b949e&icon_color=6e7681" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatege&layout=compact&hide_border=true&bg_color=00000000&title_color=6e7681&text_color=8b949e" alt="top languages" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
+    <img width="49%" src="assets/stats-light.svg" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg" />
+    <img width="49%" src="assets/languages-light.svg" alt="Most used languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg" />
+    <img width="99%" src="assets/activity-light.svg" alt="Contribution activity" />
+  </picture>
+</p>
+
+<sub>Cards are generated daily by a GitHub Action in this repo — no third-party stat servers.</sub>
 
 ---
 
